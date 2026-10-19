@@ -13,3 +13,5 @@ pong_lab
 *.o
 .DS_Store
 .vscode/
+desafio/desafio[0-9]
+desafio/molde
